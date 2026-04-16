@@ -54,7 +54,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
               </svg>
             </a>
             <a
-              href="https://https://github.com/itstar064"
+              href="https://github.com/itstar064"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
